@@ -1,6 +1,6 @@
 ### Hello, my name is Guillaume Duhan 👋
 
-<img src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxwuIuGuGg83zu77gdHHizzKt60wT-QMg_aJi0n1B29MZjds_D5UGxSHVZTkkiDe5TxY&usqp=CAU" />
 
 <!--
 **guillaumeduhan/guillaumeduhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
