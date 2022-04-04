@@ -1,6 +1,6 @@
 ### Hello, my name is Guillaume Duhan 👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxwuIuGuGg83zu77gdHHizzKt60wT-QMg_aJi0n1B29MZjds_D5UGxSHVZTkkiDe5TxY&usqp=CAU" />
+10 years as Front-End Developer Freelance, speciality in Vue.js, Nuxt.js, Node.js, Firebase. Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (45k+).
 
 <!--
 **guillaumeduhan/guillaumeduhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
