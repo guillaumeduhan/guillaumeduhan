@@ -2,7 +2,7 @@
 
 10 years as Front-End Developer Freelance, speciality in Vue.js, Nuxt.js, Node.js, Firebase. Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (45k+).
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=guillaumeduhan&label=guillaumeduhan%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=guillaumeduhan&label=Views%20&color=aa19ff&style=plastic" alt="candida18" /> </p>
 
 <!--
 ## Tech stack
