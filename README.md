@@ -1,5 +1,7 @@
 ### Hello, my name is Guillaume Duhan 👋
 
+<img src="https://guillaumeduhan.com/BANNER.png" alt="guillaumeduhan" />
+
 10 years as Front-End Developer Freelance, speciality in Vue.js, Nuxt.js, Node.js, Firebase. Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (45k+).
 
 <img src="https://komarev.com/ghpvc/?username=guillaumeduhan&label=Views%20&color=aa19ff&style=plastic" alt="guillaumeduhan" />
