@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=guillaumeduhan&label=Views%20&color=aa19ff&style=plastic" alt="guillaumeduhan" />
 
-<img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guillaumeduhan&layout=compact&langs_count=8&theme=vue"/>
+<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guillaumeduhan&layout=compact&langs_count=8&theme=vue"/>
 
 <!--
 ## Tech stack
