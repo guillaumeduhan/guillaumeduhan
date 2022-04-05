@@ -2,7 +2,7 @@
 
 10 years as Front-End Developer Freelance, speciality in Vue.js, Nuxt.js, Node.js, Firebase. Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (45k+).
 
-![Vue](https://img.shields.io/badge/-Vue-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-%23E44D27?style=flat-square&logo=vue&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
