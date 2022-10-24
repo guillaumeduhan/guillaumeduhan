@@ -1,7 +1,5 @@
 ### Hello, my name is Guillaume Duhan 👋
 
-<img src="https://guillaumeduhan.com/banner.png" />
-
 10 years as Front-End Developer Freelance, speciality in Vue, Nuxt, Node, Supabase, Firebase, GraphQL. Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (65k+). Currently launching a Youtube channel. 
 
 - 🔭 I’m currently working on Vue 3 & Supabase.
