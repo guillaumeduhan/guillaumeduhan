@@ -10,7 +10,9 @@ CTO, Teacher & Senior Front-End Developer
 *   🚀  I'm currently working on [Blockchainjobs](http://blockchainjobs.gg)
 *   🧠  I'm learning Go, Solidity
 *   🤝  I'm open to collaborating on Front-end applications
-*   ⚡  Vue 3, Nextjs, Tailwindcss, Supabase<a href="https://www.twitch.tv/codewithguillaume" target="_blank" rel="noreferrer"><img
+*   ⚡  Vue 3, Nextjs, Tailwindcss, Supabase
+
+<a href="https://www.twitch.tv/codewithguillaume" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/codewithguillaume?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
                   
 ### Skills 
