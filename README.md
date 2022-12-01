@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guillaume Duhan
 =======================================================================================================================================
 
-CTO, Teacher & Senior Front-End Developer
+CTO, Freelance Front-End Developer & Teacher
 -----------------------------------------
 
-10 years as Front-End Developer Freelance, speciality in Vue, Nuxt, Node, Supabase, Firebase, GraphQL. Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (65k+). Currently launching a Youtube channel.
+10 years as Front-End Developer, Vue, Nuxt, Node, Supabase, Firebase, GraphQL... Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (65k+). Currently launching a Youtube channel.
 
 *   🌍  I'm based in Paris, France
-*   🚀  I'm currently working on [Blockchainjobs](http://blockchainjobs.gg)
-*   🧠  I'm learning Go, Solidity
+*   🚀  I'm currently working on [Vueworkshop](http://vueworkshop.gg)
+*   🧠  I'm learning Typescript, Go
 *   🤝  I'm open to collaborating on Front-end applications
 *   ⚡  Vue 3, Nextjs, Tailwindcss, Supabase
 
