@@ -6,6 +6,10 @@ CTO, Freelance Front-End Developer & Teacher
 
 10 years as Front-End Developer, Vue, Nuxt, Node, Supabase, Firebase, GraphQL... Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (65k+). Currently launching a Youtube channel.
 
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=aXwBjWRe0Q4" type="video/mp4">
+</video>
+
 *   🌍  I'm based in Paris, France
 *   🚀  I'm currently working on [Vueworkshop](http://vueworkshop.gg)
 *   🧠  I'm learning Typescript, Go
