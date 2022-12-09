@@ -12,8 +12,7 @@ CTO, Freelance Front-End Developer & Teacher
 
 *   🌍  I'm based in Paris, France
 *   🚀  I'm currently working on [Vueworkshop](http://vueworkshop.gg)
-*   🧠  I'm learning Go
-*   🤝  I'm collaborating on promoting Supabase
+*   🧠  Huge fan of Supabase
 *   ⚡  Vue 3, Next, Tailwindcss, Supabase
 
 <a href="https://www.twitch.tv/codewithguillaume" target="_blank" rel="noreferrer"><img
