@@ -10,11 +10,6 @@ CTO, Freelance Front-End Developer & Teacher
   <source src="https://www.youtube.com/watch?v=aXwBjWRe0Q4" type="video/mp4">
 </video>
 
-*   🌍  I'm based in Paris, France
-*   🚀  I'm currently working on [Vueworkshop](http://vueworkshop.gg)
-*   🧠  Huge fan of Supabase
-*   ⚡  Vue 3, Next, Tailwindcss, Supabase
-
 <a href="https://www.twitch.tv/codewithguillaume" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/codewithguillaume?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
                   
