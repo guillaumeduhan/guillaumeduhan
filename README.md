@@ -1,19 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guillaume Duhan
-=======================================================================================================================================
-
-CTO, Freelance Front-End Developer & Teacher
------------------------------------------
-
-10 years as Front-End Developer, Vue, Nuxt, Node, Supabase, Firebase, GraphQL... Worked in 50+ start-ups (4 to 1000 employees) in Paris, London and Berlin. Teacher on Udemy (65k+). Currently launching a Youtube channel.
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=aXwBjWRe0Q4" type="video/mp4">
-</video>
-
-<a href="https://www.twitch.tv/codewithguillaume" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/codewithguillaume?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-                  
-### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
@@ -33,9 +17,6 @@ CTO, Freelance Front-End Developer & Teacher
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-### Socials
-                  
                   
 <p align="left">
 
