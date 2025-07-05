@@ -12,4 +12,4 @@ I’ve led 100+ projects from MVPs to scale-ups, taught 5M+ students online, and
 
 ——
 
-Youtube: [@codewithguillaume](https://www.youtube.com/@codewithguillaume) / X: [@blackevilgoblin](https://x.com/blackevilgoblin)  
+X: [@blackevilgoblin](https://x.com/blackevilgoblin)  
