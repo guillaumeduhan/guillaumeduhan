@@ -8,7 +8,7 @@ CTO x3, agency owner, 15+ years of experience. 2x dad.
 
 I’ve led 100+ projects from MVPs to scale-ups, taught 5M+ students online, and built a YouTube audience of over 180K creators and founders.
 
-Guillaume.ceo 〰 Timer.cool 〰 Codeg.link 〰 Developer-course.com
+Guillaume.ceo 〰 Timer.cool 〰 Codeg.link
 
 ——
 
