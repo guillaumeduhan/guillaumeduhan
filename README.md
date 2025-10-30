@@ -4,7 +4,7 @@
 
 Founder, CTO x3, Agency Owner & Freelance since 15+ years. Dad x2. Led 100+ projects from MVPs to scale-ups, taught 5M+ students online, and built a YouTube audience of over 180K creators and founders.
 
-[https://guillaume.ceo](Guillaume.ceo) 〰 [https://codeg.link](Youtube) 〰 [https://timer.cool](Timer.cool) 〰 [https://nuage.to](Nuage.to)
+[Guillaume.ceo](guillaume.ceo) 〰 [Youtube](codeg.link) 〰 [Timer.cool](timer.cool) 〰 [Nuage](nuage.to)
 
 ——
 
