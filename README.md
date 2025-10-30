@@ -2,15 +2,9 @@
 > Don’t start with an idea. Start with a problem. Ideally yours.  
 > — Guillaume Duhan
 
-Founder, CTO x3, Agency Owner & Freelance since 15+ years. Dad x2. Led 100+ projects from MVPs to scale-ups, taught 5M+ students online, and built a YouTube audience of over 180K creators and founders.
+Dad x2, Founder, CTO x3, Agency Owner & Freelance since 15+ years. Led 100+ projects from MVPs to scale-ups, taught 5M+ students online, and built a YouTube audience of over 180K creators and founders.
 
 [Guillaume.ceo](https://guillaume.ceo) 〰 [Youtube](https://codeg.link) 〰 [Timer.cool](https://timer.cool) 〰 [Nuage.to](https://nuage.to)
-
-——
-
-Dad x2. Solving problems in public.  
-[@codewithguillaume](https://www.youtube.com/@codewithguillaume) / [@blackevilgoblin](https://x.com/blackevilgoblin)  
-[guillaume.ceo](https://guillaume.ceo)
 
 ——
 ### Starters / Templates
